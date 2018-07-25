@@ -3,11 +3,6 @@ Download
 
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/Gopher360/total.svg?style=flat&label=Download%20Gopher360%20Standalone&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/Gopher360/releases/download/v0.989/Gopher.exe)
 
-Donate
-======
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ETDWNUEJG2UY2)
-
 Compatible Controllers
 ======
 ### Xbox 360
@@ -72,21 +67,6 @@ Using DualShock Controllers
 ======
 DualShock controllers don't use typical xinput libraries like the X360 and Xbone controllers do, so you'll need something like InputMapper, SCP, DS4Windows, or DS3Tool to "emulate" an xinput device in order to get xinput-using applications like Gopher360 to understand it. Gopher360 DOES NOT automatically offer these emulation layers ( yet ;) ), so you'll need to use something to emulate it before Gopher can understand it.
 
-Video Demonstration
-======
-
-https://vine.co/v/MYadBgWXuWY
-
-[![Gopher Video 1](http://img.youtube.com/vi/UWYUodeontM/0.jpg)](https://www.youtube.com/watch?v=UWYUodeontM)
-
-[![Gopher Video 2](http://img.youtube.com/vi/8APmA1ohPdM/0.jpg)](https://www.youtube.com/watch?v=8APmA1ohPdM)
-
-
-Download Instructions
-======
-Download the latest release here: https://github.com/irungentoo/Gopher360/releases
-
-I recommend that you copy it somewhere outside of the ZIP and make a shortcut to it. Adding it to your startup folder in your HTPC can make bootups a lot more convenient!
 
 Default Controls
 ======
@@ -163,8 +143,3 @@ Gopher free software: you can redistribute it and/or modify it under the terms o
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see http://www.gnu.org/licenses/.
-
-
-
-
-![Controller GIF](https://thumbs.gfycat.com/ElasticUnrulyBighorn-max-1mb.gif)

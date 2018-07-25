@@ -126,14 +126,14 @@ void ConfigFile::ExtractKeys()
     outfile << "GAMEPAD_BACK = 0xA8" << std::endl;
     outfile << "GAMEPAD_LEFT_THUMB = 0" << std::endl;
     outfile << "GAMEPAD_RIGHT_THUMB = 0x71" << std::endl;
-    outfile << "GAMEPAD_LEFT_SHOULDER = 0" << std::endl;
-    outfile << "GAMEPAD_RIGHT_SHOULDER = 0" << std::endl;
+    outfile << "GAMEPAD_LEFT_SHOULDER = 0xA6" << std::endl;
+    outfile << "GAMEPAD_RIGHT_SHOULDER = 0xA7" << std::endl;
     outfile << "GAMEPAD_A = 0" << std::endl;
     outfile << "GAMEPAD_B = 0x0D" << std::endl;
     outfile << "GAMEPAD_X = 0" << std::endl;
     outfile << "GAMEPAD_Y = 0" << std::endl;
-    outfile << "GAMEPAD_TRIGGER_LEFT = 0" << std::endl;
-    outfile << "GAMEPAD_TRIGGER_RIGHT = 0" << std::endl;
+    outfile << "GAMEPAD_TRIGGER_LEFT = 0x20" << std::endl;
+    outfile << "GAMEPAD_TRIGGER_RIGHT = 0x08" << std::endl;
     outfile << "\n" << std::endl;
     outfile << "# ADVANCED CONFIGURATION SETTINGS" << std::endl;
     outfile << "#  ALLOWED CURSOR SPEEDS, FIRST WILL BE CHOSEN BY DEFAULT.  VALUES > 1.0 WILL BE IGNORED.  NO SPACES." << std::endl;
