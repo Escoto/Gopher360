@@ -1,7 +1,18 @@
-Download
+Description
 ======
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/Gopher360/total.svg?style=flat&label=Download%20Gopher360%20Standalone&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/Gopher360/releases/download/v0.989/Gopher.exe)
+I am only personalizing to this code. You can get my version or go look at the original.
+
+Enhancements
+======
+
+* Scroll with arrows.
+* Toggle only between 2 speeds for mouse (Low/High).
+
+Download Original
+======
+
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/Gopher360/total.svg?style=flat&label=Download%20Gopher360%20Standalone&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/Gopher360)
 
 Compatible Controllers
 ======
@@ -21,11 +32,6 @@ DualShock controllers are great, but you NEED to emulate Xinput for Gopher to se
 
 ### Third party
 SOME third party controllers will most likely work as well. I haven't seen one not work, but I'd imagine some wouldn't. Research before buying, Gopher expects native Xinput devices, so the controller should as well. I won't be listing any for now until I know what ones will work. If I can find one that does the job and saves you from Microsoft's extreme profit margins, I'll list it.
-
-Feedback
-======
-
-[![Static](https://img.shields.io/badge/Feedback%20Survey-03-blue.svg?logo=eclipse)](https://docs.google.com/forms/d/e/1FAIpQLScbsasEPPPLY0utFSnowtZFAr_O60hAHvrLt7_wEHZ3pzY9AA/viewform)
 
 Table of contents
 =================
